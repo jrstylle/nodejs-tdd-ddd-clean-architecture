@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/jrstylle/nodejs-tdd-ddd-clean-architecture/issues"
   },
-  "homepage": "https://github.com/jrstylle/nodejs-tdd-ddd-clean-architecture#readme"
+  "homepage": "https://github.com/jrstylle/nodejs-tdd-ddd-clean-architecture#readme",
+  "devDependencies": {
+    "git-commit-msg-linter": "^4.0.7"
+  }
 }
